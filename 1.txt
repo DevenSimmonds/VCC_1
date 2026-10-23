@@ -1,0 +1,3 @@
+Update Git HUB: Git Add. (stage your changes)
+Git Commit -m "Describe the Changes you made"
+git push ( Push it to GitHub Browser)
